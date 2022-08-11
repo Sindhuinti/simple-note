@@ -20,6 +20,3 @@
 
 👩🏻‍💻  **Sindhu Inti**
 
-## Show your support
-
-Give a ⭐ to my project.
