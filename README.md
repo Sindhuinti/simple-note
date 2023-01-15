@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Click here to create an account]()
+[Click here to create an account](https://classy-kangaroo-e8e7b5.netlify.app/)
 
 > Includes authentication
 
@@ -20,6 +20,3 @@
 
 👩🏻‍💻  **Sindhu Inti**
 
-## Show your support
-
-Give a ⭐ to my project.
