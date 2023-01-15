@@ -32,7 +32,7 @@ const Header = ({setSearch}) => {
     <Navbar bg="primary" expand="lg" variant="dark">
   <Container>
     <Navbar.Brand href="/">
-    <Link to="/">Note tracker</Link>
+    <Link to="/">Simple Note</Link>
     
 
     </Navbar.Brand>

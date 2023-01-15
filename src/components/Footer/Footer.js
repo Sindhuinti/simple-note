@@ -10,13 +10,13 @@ const Footer = () => {
         bottom: 0,
         display: "flex",
         justifyContent: "center",
-        backgroundColor:"#158cba",
+        backgroundColor:"#2c3e50",
         color:"white",
       }}
     >
       <Container>
         <Row>
-          <Col className="text-center py-3">Made with 💖 by Sindhu</Col>
+          <Col className="text-center py-3">Made with ❤️ by Sindhu</Col>
         </Row>
       </Container>
     </footer>
