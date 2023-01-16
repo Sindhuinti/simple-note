@@ -2,6 +2,12 @@
 
 > This repository contains the code for a note-taking application built using React, Node.js, and MongoDB. The application allows users to create and manage notes, categorize them, and save them for future reference.
 
+## About
+
+> A simple note taking app created using React and Node.js is a web application that utilizes these two popular JavaScript libraries to build the user interface and handle the back-end functionality. React is a JavaScript library for building user interfaces, and Node.js is a JavaScript runtime for building server-side applications.
+
+> The app will have a user-friendly interface built using React, which will allow users to easily create, edit, and organize their notes. The back-end functionality, such as data storage and retrieval, will be handled by Node.js. This will allow the app to have features like saving notes in real-time, searching through notes and syncing notes across multiple devices. The app will also make use of a database like MongoDB to store the notes and other information.
+
 ## Build with 
 - Mongodb
 - Express
