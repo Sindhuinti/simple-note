@@ -64,7 +64,8 @@ nodemon server
 http://localhost:3000/
 
 4. `.env` file
-Add ATLAS_URL and JWT_SECRET to the backend.
+
+ - Add ATLAS_URL and JWT_SECRET to the backend.
 
 
 ## Contributing
